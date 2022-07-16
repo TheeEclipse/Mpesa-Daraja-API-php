@@ -9,9 +9,9 @@ An mpesa daraja integration code  in php. Integrate mpesa to your website or web
 
 🔰To go live you'll need an mpesa portal account and a valid paybill/till number (get that from safaricom)
 
-🖥The Call back url is almost same in formating to testing and live
+🖥️The Call back url is almost same in formating to testing and live
 
-🖥The stk push default shortcode is safaricom's daraja account so add your own
+🖥️The stk push default shortcode is safaricom's daraja account so add your own
 
 🖥️
 🖥️

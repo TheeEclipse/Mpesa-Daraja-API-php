@@ -6,7 +6,7 @@
 </head>
 
 <body style="height:100vh" style="background-color: #eaedf4;">
-<form action="./indexver.php" method="POST" >
+<form action="./stkpush" method="POST" >
   <div class="container">
     <h1>ECORP PAY</h1>
     <p>Please add details below to pay</p>

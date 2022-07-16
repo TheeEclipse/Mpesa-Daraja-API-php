@@ -1,7 +1,7 @@
 # Mpesa-Daraja-API-php
 An mpesa daraja integration code  in php. Integrate mpesa to your website or web applications in php.
 
-# 🖥️Mpesa Daraja API integration with php
+# 🖥️Mpesa Daraja API Integration with PHP
 
 🔰You'll need  a safaricom developers account,it's free at https://developer.safaricom.co.ke
 

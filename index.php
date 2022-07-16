@@ -28,7 +28,7 @@
   </div>
 </form>
 
-</body>
+
 <footer>
      <div class="all" style=" text-align: center; background-color: aliceblue;">
   <div class="spinner-border text-info" role="status" style="margin-top: 10vh;">
@@ -40,5 +40,6 @@
   </div>
   </div>
 </footer>
+ </body>
 </html>
 

@@ -11,7 +11,7 @@ An mpesa daraja integration code  in php. Integrate mpesa to your website or web
 
 🖥️The Call back url is almost same in formating to testing and live
 
-🖥️The stk push default shortcode is safaricom's daraja account so add your own
+🖥️The stk push default shortcode is safaricom's daraja account so you can add your own
 
 🖥️
 🖥️

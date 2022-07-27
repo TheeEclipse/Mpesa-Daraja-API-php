@@ -17,7 +17,7 @@
 	$phone = $_POST["phone"];
     #connect to database to view data / transaction records
     
-    $conn=mysqli_connect("localhost","username","paswsword","database") or die ('Connection Failed');
+    $conn=mysqli_connect("localhost","username","password","database") or die ('Connection Failed');
 
     // Check connection
     if ($conn->connect_error) {
@@ -26,7 +26,7 @@
 
 if(isset($_POST['submit'])) {
 	$sql = mysqli_query($conn,
-	"SELECT * FROM 'the database table' WHERE PhoneNumber='$phone'");
+	"SELECT * FROM the database table WHERE PhoneNumber='$phone'");
 
 	$num = mysqli_num_rows($sql);
 

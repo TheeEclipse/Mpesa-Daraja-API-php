@@ -64,7 +64,7 @@ $PhoneNumber = $res->Body->stkCallback->CallbackMetadata->Item[4]->Value;
     $curl_post_data = array(
       //Fill in the request parameters with valid values
       'Initiator' => 'ecorppay',
-      'SecurityCredential' => 'HVqQ0frsTOrMg4SS23J0pUb3v6fuzG4FmN8qnTgZSy9ZqSYqZ07zm1gQKQeO2mqvzlVyEPPNDrC2hGek8Rlh7HQIaOsAJBd9IFfBhwkhBMEJwToRxzJFp3tyFQLfzzdOhOQrrg4mPnCe1zBc6pJiWIJOxMdTVtKw9JuQjKuMB+Bho1rN52Rfxw23cAf4F1OtqqaIff9+Mi8QAm22CGInls2ug7HxKUVpGmQc/pFrlqeAEWhWmsRojPQ8rz8YYqUDD8DyjTycLY9lXGlsb9URoq5Q==',
+      'SecurityCredential' => 'HVqQ0frsTOrMg4SS23J0p9ZqSYqZ07zm1gQKQeO2mqvzlVyEPPNDrC2hGek8Rlh7HQIaOsAJBd9IFfBhwkhBMEJwToRxzJFp3tyFQLfzzdOhOQrrg4mPnCe1zBc6pJiWIJOxMdTVtKw9JuQjKuMB+Bho1rN52Rfxw23cAf4F1OtqqaIff9+Mi8QAm22CGInls2ug7HxKUVpGmQc/pFrlqeAEWhWmsRojPQ8rz8YYqUDD8DyjTycLY9lXGlsb9URoq5Q==',
       'CommandID' => 'TransactionStatusQuery',
       'TransactionID' => $MpesaReceiptNumber,
       'PartyA' => '4095235', // shortcode 1
